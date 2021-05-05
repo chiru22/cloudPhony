@@ -73,6 +73,7 @@ Download: https://ngrok.com/download
   - GOTO this url(https://console.plivo.com/login/) and login.
   - To update the EndPoint URL, goto this url(https://console.plivo.com/voice/endpoints/) and edit the existing endpoint.Then update the 'Alias Name'(Eg:http://5a7edf575e07.ngrok.io) and save.
   - To change the xml application config, goto this url(https://console.plivo.com/voice/applications/edit/99050408707887692/).Then update the 'Primary Answer URL' same as endpoint url(Eg: http://5a7edf575e07.ngrok.io) and save.
+  - Please add the destination mobile number by going to this url(https://console.plivo.com/phone-numbers/sandbox-numbers/) due to trail account, the destination mobile number needs to be verified.
 
 #### Instructions To make a call:
 - Goto the url(http://localhost:3000/).
